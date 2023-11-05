@@ -11,3 +11,4 @@ By using AWS IAM, you can effectively manage and secure access to your AWS resou
 
 Overall, IAM is an essential component of AWS security, providing granular control over access to your AWS account and resources, reducing the risk of unauthorized access and helping maintain a secure environment.
 
+# fadawjf
