@@ -20,7 +20,7 @@ What is EC2, and why is it important?
 - Optimize performance and cost with flexible options like AWS Graviton-based instances, Amazon EC2 Spot instances, and AWS Savings Plans.
 
 *Instance families*
-    
+
     C – Compute
     D – Dense storage
     F – FPGA
