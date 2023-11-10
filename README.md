@@ -7,7 +7,7 @@ IAM follows the principle of least privilege, meaning users and entities are giv
 By using AWS IAM, you can effectively manage and secure access to your AWS resources, ensuring that only authorized individuals have appropriate permissions and actions are logged for accountability and compliance purposes.
 Overall, IAM is an essential component of AWS security, providing granular control over access to your AWS account and resources, reducing the risk of unauthorized access and helping maintain a secure environment.
 
-# 2. AWS EC2
+# 2. Elastic Compute Cloud(EC2)
 
 What is EC2, and why is it important?
 
