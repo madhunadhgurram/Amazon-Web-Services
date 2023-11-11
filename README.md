@@ -14,7 +14,6 @@ What is EC2, and why is it important?
 - Access reliable, scalable infrastructure on demand. Scale capacity within minutes with SLA commitment of 99.99% availability.
 - Provide secure compute for your applications. Security is built into the foundation of Amazon EC2 with the AWS Nitro System.
 - Optimize performance and cost with flexible options like AWS Graviton-based instances, Amazon EC2 Spot instances, and AWS Savings Plans.
-
 *Instance families*
 
     C – Compute
