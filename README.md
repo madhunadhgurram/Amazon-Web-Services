@@ -8,8 +8,6 @@
 
 # 2. Elastic Compute Cloud(EC2)
 
-What is EC2, and why is it impo
-
 - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
 - Access reliable, scalable infrastructure on demand. Scale capacity within minutes with SLA commitment of 99.99% availability.
 - Provide secure compute for your applications. Security is built into the foundation of Amazon EC2 with the AWS Nitro System.
