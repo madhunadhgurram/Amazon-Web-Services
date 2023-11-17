@@ -1,4 +1,4 @@
-![image](https://github.com/MadhunadhGurram/Amazon-Web-Services/assets/84019306/29b9de2e-bbf7-4b0d-b4d9-7a38b9c6d703)# 1. Identity Access Management(IAM)
+# 1. Identity Access Management(IAM)
 
 * AWS IAM (Identity and Access Management) is a service provided by Amazon Web Services (AWS) that helps you manage access to your AWS resources. It's like a security system for your AWS account.
 * IAM allows you to create and manage users, groups, and roles. Users represent individual people or entities who need access to your AWS resources. Groups are collections of users with similar access requirements, making it easier to manage permissions. Roles are used to grant temporary access to external entities or services.
@@ -38,7 +38,7 @@
 * Just like a physical network, a VPC has its own set of rules and configurations. You can define the IP address range for your VPC and create smaller subnetworks within it called subnets. These subnets help you organize your resources and control how they communicate with each other.
 * To connect your VPC to the internet or other networks, you can set up gateways or routers. These act as entry and exit points for traffic going in and out of your VPC. You can control the flow of traffic and set up security measures to protect your resources from unauthorized access.
 * With a VPC, you have control over your network environment. You can define access rules, set up firewalls, and configure security groups to regulate who can access your resources and how they can communicate.
-
+![image](https://github.com/MadhunadhGurram/Amazon-Web-Services/assets/84019306/29b9de2e-bbf7-4b0d-b4d9-7a38b9c6d703)
 *Components*
 
 A VPC is a virtual network that closely resembles a traditional network that you'd operate in your own data center. After you create a VPC, you can add subnets.
