@@ -7,7 +7,6 @@
 * Overall, IAM is an essential component of AWS security, providing granular control over access to your AWS account and resources, reducing the risk of unauthorized access and helping maintain a secure environment.
 
 # 2. Elastic Compute Cloud(EC2)
-
 - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
 - Access reliable, scalable infrastructure on demand. Scale capacity within minutes with SLA commitment of 99.99% availability.
 - Provide secure compute for your applications. Security is built into the foundation of Amazon EC2 with the AWS Nitro System.
